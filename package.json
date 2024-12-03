@@ -1,0 +1,23 @@
+{
+  "name": "@sarmitha/rgb2hex",
+  "version": "1.0.1",
+  "description": "Convert RGB values to HEX and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSarmitha/rgb2Hex.git"
+  },
+  "keywords": [
+    "rgb",
+    "hex"
+  ],
+  "author": "KSarmitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSarmitha/rgb2Hex/issues"
+  },
+  "homepage": "https://github.com/KSarmitha/rgb2Hex#readme"
+}
